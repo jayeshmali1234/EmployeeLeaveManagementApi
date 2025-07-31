@@ -1,0 +1,11 @@
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+
+# React
+node_modules/
+build/
+.env
+.DS_Store
