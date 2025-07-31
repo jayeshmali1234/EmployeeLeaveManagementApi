@@ -44,9 +44,9 @@ A full-stack web application to manage employee leave requests, balances, and ap
      "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=EmployeeLeaveManagement;Trusted_Connection=True;"
    }
 
-######Complete Test to files in Swagger 
+## Complete Test to files in Swagger 
 
-<img width="1366" height="768" alt="Swagger" src="https://github.com/user-attachments/assets/4b219b5d-b318-46c7-bfc9-8b5420414597" />
+<img width="1200" height="600" alt="Swagger" src="https://github.com/user-attachments/assets/4b219b5d-b318-46c7-bfc9-8b5420414597" />
 
 ##then after Postman Succesfully Complete Leave Request
 
