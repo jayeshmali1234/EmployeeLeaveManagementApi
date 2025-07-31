@@ -15,7 +15,7 @@ const ManagerApprovalPage = () => {
       });
       setRequests(res.data);
     } catch (err) {
-      setMessage('⚠️ Failed to fetch requests.');
+      setMessage(' Failed to fetch requests.');
     }
   };
 

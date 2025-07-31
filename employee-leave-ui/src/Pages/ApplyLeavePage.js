@@ -23,12 +23,12 @@ function ApplyLeavePage() {
     const { startDate, endDate } = formData;
 
     if (new Date(endDate) < new Date(startDate)) {
-      setMessage('❌ End date cannot be before start date.');
+      setMessage(' End date cannot be before start date.');
       return;
     }
 
     if (new Date(startDate) < new Date().setHours(0, 0, 0, 0)) {
-      setMessage('❌ Start date cannot be in the past.');
+      setMessage('Start date cannot be in the past.');
       return;
     }
 
@@ -51,7 +51,7 @@ function ApplyLeavePage() {
       });
     } catch (error) {
       const errorMsg = error.response?.data?.message || 'Something went wrong';
-      setMessage(`❌ ${errorMsg}`);
+      setMessage(` ${errorMsg}`);
     }
   };
 
