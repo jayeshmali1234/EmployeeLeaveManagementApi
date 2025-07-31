@@ -1,0 +1,54 @@
+.leave-requests-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #f9fafb;
+  border-radius: 16px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #333;
+}
+
+.error {
+  color: red;
+  margin-bottom: 20px;
+}
+
+.leave-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.leave-table th, .leave-table td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+.leave-table th {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.leave-table .status.approved {
+  color: green;
+  font-weight: bold;
+}
+
+.leave-table .status.rejected {
+  color: red;
+  font-weight: bold;
+}
+
+.leave-table .status.pending {
+  color: #ff9800;
+  font-weight: bold;
+}

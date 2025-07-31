@@ -1,0 +1,72 @@
+/* src/Pages/LoginPage.css */
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #1e1e2f; /* Dark background */
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.login-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e1e2f;
+}
+
+.login-form {
+  background-color: #2e2e3e;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  width: 100%;
+  max-width: 400px;
+  color: #fff;
+}
+
+.login-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #f1f1f1;
+}
+
+.login-form label {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  color: #ccc;
+}
+
+.login-form input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  background-color: #444;
+  color: white;
+}
+
+.login-form button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 20px;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.login-form button:hover {
+  background-color: #45a049;
+}
+
+.error {
+  color: #ff4d4d;
+  margin-bottom: 10px;
+  text-align: center;
+}
