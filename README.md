@@ -51,28 +51,32 @@ A full-stack web application to manage employee leave requests, balances, and ap
 <img width="700" height="300" alt="Swagger" src="https://github.com/user-attachments/assets/4b219b5d-b318-46c7-bfc9-8b5420414597" />
 
 
-## Then after Postman Succesfully Complete Leave Request
+## Then after Succesfully Complete Leave Request In Postman
 
 <img width="700" height="300" alt="Postman" src="https://github.com/user-attachments/assets/548f189f-aec4-4611-b9cb-965daf55a529" />
 
 ### In SQL server only thos users are login they are register only below user are register so only thos user are loggin
-<img width="700" height="300" alt="Sql" src="https://github.com/user-attachments/assets/01f3adec-1993-43a3-8440-e76739bd595c" />
 
-##After this change we are go to main page of browser This Is Login Page Only Those User are loggin they are register
+<img width="700" height="350" alt="Sql" src="https://github.com/user-attachments/assets/01f3adec-1993-43a3-8440-e76739bd595c" />
 
-<img width="1366" height="768" alt="LoginPage" src="https://github.com/user-attachments/assets/50ef457e-63bb-4bef-9756-ad4a3ff1ce95" />
+## After this change we go to main page of browser. In This Login Page Only Those User are loggin they are register
 
-##Below user are register so only this user are login
+<img width="700" height="300" alt="LoginPage" src="https://github.com/user-attachments/assets/50ef457e-63bb-4bef-9756-ad4a3ff1ce95" />
 
-<img width="1366" height="768" alt="LoginPerson" src="https://github.com/user-attachments/assets/3fb2fd0f-6318-45fa-b0b5-7a489b0be751" />
+## Below user are register. Then only register user are login
 
-#Ater this we are show the dash Board Differnt types of css is add there
+<img width="700" height="768" alt="LoginPerson" src="https://github.com/user-attachments/assets/3fb2fd0f-6318-45fa-b0b5-7a489b0be751" />
 
-<img width="1366" height="768" alt="DashBoard" src="https://github.com/user-attachments/assets/91b8eb8a-49e3-41dd-8310-41ce729b17cc" />
+# Ater Login we are show the dash Board
 
-##Apply for Leave You Can Choose
+<img width="700" height="300" alt="DashBoard" src="https://github.com/user-attachments/assets/91b8eb8a-49e3-41dd-8310-41ce729b17cc" />
 
-<img width="1366" height="768" alt="Apply Leave" src="https://github.com/user-attachments/assets/a0d6ad1d-5772-437e-923e-f5093c7175cf" />
+## Apply for Leave You Can Choose Any Date
 
-##Leave Calender also Show you
-<img width="1366" height="768" alt="Calender" src="https://github.com/user-attachments/assets/ecbf05d4-6078-40ea-94ca-5cc8156a7878" />
+<img width="700" height="300" alt="Apply Leave" src="https://github.com/user-attachments/assets/a0d6ad1d-5772-437e-923e-f5093c7175cf" />
+
+## Leave Calender also Show you
+<img width="700" height="300" alt="Calender" src="https://github.com/user-attachments/assets/ecbf05d4-6078-40ea-94ca-5cc8156a7878" />
+
+
+###  This is a All Details Of Project.
