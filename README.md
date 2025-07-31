@@ -51,12 +51,12 @@ A full-stack web application to manage employee leave requests, balances, and ap
 <img width="700" height="300" alt="Swagger" src="https://github.com/user-attachments/assets/4b219b5d-b318-46c7-bfc9-8b5420414597" />
 
 
-##then after Postman Succesfully Complete Leave Request
+## Then after Postman Succesfully Complete Leave Request
 
-<img width="1366" height="768" alt="Postman" src="https://github.com/user-attachments/assets/548f189f-aec4-4611-b9cb-965daf55a529" />
+<img width="700" height="300" alt="Postman" src="https://github.com/user-attachments/assets/548f189f-aec4-4611-b9cb-965daf55a529" />
 
 ### In SQL server only thos users are login they are register only below user are register so only thos user are loggin
-<img width="1366" height="768" alt="Sql" src="https://github.com/user-attachments/assets/01f3adec-1993-43a3-8440-e76739bd595c" />
+<img width="700" height="300" alt="Sql" src="https://github.com/user-attachments/assets/01f3adec-1993-43a3-8440-e76739bd595c" />
 
 ##After this change we are go to main page of browser This Is Login Page Only Those User are loggin they are register
 
