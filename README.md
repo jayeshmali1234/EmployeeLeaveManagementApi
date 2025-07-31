@@ -48,7 +48,7 @@ A full-stack web application to manage employee leave requests, balances, and ap
 ## Complete Test to files in Swagger 
 
 
-<img width="1000" height="500" alt="Swagger" src="https://github.com/user-attachments/assets/4b219b5d-b318-46c7-bfc9-8b5420414597" />
+<img width="700" height="300" alt="Swagger" src="https://github.com/user-attachments/assets/4b219b5d-b318-46c7-bfc9-8b5420414597" />
 
 
 ##then after Postman Succesfully Complete Leave Request
